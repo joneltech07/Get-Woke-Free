@@ -149,7 +149,7 @@
             </div>
         </section>
     </div>
-    <section class="banner">
+    <section class="banner mt-3 mb-3">
         <p class="h4">Section for Banner/Link to Brand Profile</p>
     </section>
 
