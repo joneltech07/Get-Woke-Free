@@ -1,9 +1,13 @@
 <script setup>
-import Category from './views/category.vue';
+import NavBar from './components/NavBar.vue';
+import Footer from './components/Footer.vue';
+
 </script>
 
 <template>
-  <Category />
+  <NavBar />
+  <router-view></router-view>
+  <Footer />
 </template>
 
 <style scoped>
